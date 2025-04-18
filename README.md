@@ -9,3 +9,5 @@ Die Materialien der Fallstudie sind unter Nennung des Autors frei verwendbar.
 Viel Spaß!
 Prof. Dr. Markus Grüne
 Frankfurt University of Applied Sciences
+
+DISCLAIMER: Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet. Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter.  
