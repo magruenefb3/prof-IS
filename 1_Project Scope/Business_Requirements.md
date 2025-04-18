@@ -64,6 +64,7 @@ Im Prof-IS soll nicht enthalten sein:
 3. Die _Bewertung der Arbeit_ (Plagiatsprüfung, Gutachten, Kolloquiumsprotkoll und -note).  
 4. Die _Versionierung_ wegen Änderung von SWS-Verrechnungssätzen durch Änderung von Prüfungsordnungen.  
 5. Warnungen, wenn das Maximaldeputet überschritten wird - es wird angenommen, dass maximal 2 SWS pro Semester an Deputat gutgeschrieben werden können.
+6. Die _Userverwaltung_ im Prof-IS entfällt. Diese soll später in einer Produktionsvariante nachgezogen werden.  
 
 ## Schedule / Zeitplanung / Meilensteine  
 
