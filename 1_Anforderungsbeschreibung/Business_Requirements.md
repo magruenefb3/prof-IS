@@ -34,7 +34,7 @@ Die Entwicklung erfolgt durch Studierende. Es sind daher Technologien zu verwend
 6. Verwaltung von Steuerdaten, z.B. Semesterzeiten (wann beginnt und endet ein Semester) sowie der Studiengänge.  
 7. Funktionen zum Laden externer Datenquellen, z.B. Daten in Form von JSON, XML, ...  
 
-## Key Stakeholders / Vom Projekt betroffenen Schlüsselpersonen  
+## Key Stakeholders / Vom Projekt betroffene Schlüsselpersonen  
 
 1. Professorinnen und Professoren: diese fungieren als Referenten und Korreferenten wissenschaftlicher Arbeiten, unterstützen bei der Themenfindung und sind die Personen, die das Prof-IS hauptsächlich verwenden.  
 2. Studierende: die Arbeiten der Studierenden werden im System verwaltet. Studierende können in einer höheren Ausbaustufe auch selbst Anträge zur Betreuung einer Arbeit stellen.
