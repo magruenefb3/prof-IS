@@ -20,6 +20,8 @@ Die Nutzgun von CLASP bietet Vorteile:
 2. Der Code kann auch mit git (z.B. GitHub) verwaltet werden.  
 3. Die Verwendung zusätzlicher Pakete, z.B. react.js wird vereinfacht. Ein Tutorial hierzu findet man unter folgendem Projekt [GitHub - React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script)  
 
+Hinweise zur Einrichtung von CLASP mit VSCode finden Sie unter dem folgenden [Link](https://yagisanatode.com/working-with-google-apps-script-in-visual-studio-code-using-clasp/)
+
 ## Technische Anforderungen
 
 Die App soll öffentlich zur Verfügung gestellt werden.  

@@ -12,3 +12,8 @@ Alle Datensätze sollen in einer fortlaufenden Liste angezeigt werden. Es soll L
 Durch das Klicken auf ein Listenelement öffnet sich die zugehörige Maske.  
 
 Die Anwendung soll zusätzlich, z.B. per Menü, die Erfassung und Löschung neuer Datensätze ermöglichen. Wünschenswert wäre auch eine Änderung der Datensätze per Menü  
+
+## Masken
+
+Referent anlegen
+![Referent anlegen](UI_Referent_anlegen.png "Referenten-Maske")
