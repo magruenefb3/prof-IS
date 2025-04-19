@@ -15,5 +15,4 @@ Die Anwendung soll zusätzlich, z.B. per Menü, die Erfassung und Löschung neue
 
 ## Masken
 
-Referent anlegen
-![Referent anlegen](UI_Referent_anlegen.png "Referenten-Maske")
+![Maske: Referent anlegen](/2_Anforderungsspezifikation/Masken/UI_Referent_anlegen.jpg "Referenten-Maske")
