@@ -17,10 +17,18 @@ Die Anwendung soll zusätzlich, z.B. per Menü, die Erfassung und Löschung neue
 
 Im Folgenden finden Sie Vorschläge für Masken. Diese müssen mit geeigneten UI-Elementen realsiert werden.  
 Für Datumswerte eignen sich Date-Picker.  
-Felder, die dunkel hinterlegt sind, sind read-only.  
+  
+Die Navigation zwischen den Masken ist nicht vollumfänglich abgebildet. Der Einstieg zu den anderen Masken findet über die Übersichtsmaske statt.
 
-Die Navigation zwischen den Masken ist nicht vollumfänglich abgebildet.
-Es bietet sich an, weitere Übersichtsmasken anzulegen, die die Auswahl von Referenten und Korreferenten zu einer Arbeit erlauben (Dropdown oder Neuanlage). Diese Übersichtsseite könnte z.B. aufgerufen werden, wenn ein Doppelklick auf einen Listeneintrag erfolgt oder über ein Menü die Erzeugung eines neuen Datensatzes angestoßen wird.  
+### Übersichtsmaske  
+
+In der Übersichtsmaske sind alle Felder read-only. Weitere Felder wie die Gesamtnote und das zu verrechnende Deputat könnten angezeigt werden.  Auf der rechten Seite befinden sich Buttons, um die zugrundeliegenden Daten / Masken aufzurufen. Bei Neunanlage einer Arbeit für einen Studierenden sind die Felder unbefüllt.  
+
+Der Status ist "in Planung" solange das Start- und Abgabedatum noch nicht offiziell bekannt sind. Nach offiziellem Beginn befindet sich die Arbeit im Status "in Bearbeitung". Nach Abgabe im Status "Korrektur". Nach Erfassung des Kolloquiumsprotokoll im Status "abgeschlossen". Es kann auch sein, dass eine Arbeit abgebrochen wird. In diesem Fall soll es möglich sein, den Abbruch zu vermerken. Die Arbeit wechselt dann in den Status "abgebrochen". Wünschenswert wäre auch ein Flag "bestanden / nicht bestanden" für spätere Auswertungen.
+
+Der Einstieg auf die Übersichtsmaske kann z.B. über ein Menü im Spreadsheet gesteuert werden. Das Menü sollte folgende Einträge haben: "Datensatz anlegen" und bestehenden "Datensatz bearbeiten". Im Falle von Datensatz bearbeiten, soll der Datensatz, der zur aktiven Zelle gehört, in der Übersicht geöffnet werden.  
+
+![Maske: Referent anlegen](/2_Anforderungsspezifikation/Masken/UI_uebersicht.jpg "Übersichtsmaske")
 
 ### Referenten  
 
