@@ -52,5 +52,6 @@ In der Maske werden der Titel und Studierender als read-only angezeigt. Alle and
 
 Ein weiteres Feld sollte die Angabe eines Raumes ermöglichen oder ob das Kolloquium online stattgefunden hat. Es muss außerdem geprüft werden, ob der Studierende sich gesund fühlt, um das Kolloquium abzulegen und ob er die Öffentlichkeit zulässt. Ein weiteres Feld sollte als Abhakfeld "Identität wurde geprüft" angelegt werden.  
 
-Erfassung Kolloquiumsprotokoll
-![Maske: Studierende anlegen](/2_Anforderungsspezifikation/Masken/UI_Kolloquium_protokollieren.jpg)]
+![Maske: Studierende anlegen][Kolloquiumsprotokoll]]
+
+[Kolloquiumsprotokoll]: /2_Anforderungsspezifikation/Masken/UI_Kolloquium_protokollieren.jpg
