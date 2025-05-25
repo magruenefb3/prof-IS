@@ -1,5 +1,7 @@
 # Fallstudie: Datenintegration und Entwicklung einer MongoDB-Datenbank
 
+Autor: Prof. Dr. Markus Grüne, 2025  
+
 Die Professorenschaft bittet Sie und Ihr Team, die Datenbank für das "Professoren-Informationssystem" prof-IS zu überarbeiten.
 
 ## Aufgabe 1: Synchronisation des Datenmodells der prof-IS-Datenbank mit dem Data Dictionary (60 Minuten)
