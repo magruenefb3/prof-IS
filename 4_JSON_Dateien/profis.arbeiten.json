@@ -1,0 +1,2838 @@
+[{
+  "_id": 1,
+  "matrikelnummer": {
+    "$numberLong": "1239874563"
+  },
+  "id_studiengang": 68,
+  "titel": "Social Entrepreneurship in Indien",
+  "start_datum": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-05-30T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 2,
+  "matrikelnummer": {
+    "$numberLong": "9637418523"
+  },
+  "id_studiengang": 46,
+  "titel": "Machine Learning in der Medizin",
+  "start_datum": {
+    "$date": "2024-09-11T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-11-13T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 3,
+  "matrikelnummer": {
+    "$numberLong": "1234567890"
+  },
+  "id_studiengang": 60,
+  "titel": "Digitalisierung im Mittelstand",
+  "start_datum": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-05-01T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-06-02T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "matrikelnummer": {
+    "$numberLong": "9876543210"
+  },
+  "id_studiengang": 40,
+  "titel": "Entwicklung eines KI-Chatbots",
+  "start_datum": {
+    "$date": "2020-11-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-04-13T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-04-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "matrikelnummer": {
+    "$numberLong": "4567891234"
+  },
+  "id_studiengang": 48,
+  "titel": "Internationales Marketing",
+  "start_datum": {
+    "$date": "2021-01-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-03-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-05-17T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "matrikelnummer": {
+    "$numberLong": "3216549870"
+  },
+  "id_studiengang": 47,
+  "titel": "Simulation von Produktionsprozessen",
+  "start_datum": {
+    "$date": "2021-01-25T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-06-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-07-06T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 7,
+  "matrikelnummer": {
+    "$numberLong": "6543217890"
+  },
+  "id_studiengang": 58,
+  "titel": "Blockchain in der Logistik",
+  "start_datum": {
+    "$date": "2021-04-12T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-06-07T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-06-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 8,
+  "matrikelnummer": {
+    "$numberLong": "7891234560"
+  },
+  "id_studiengang": 58,
+  "titel": "Strategien f├╝r globale Expansion",
+  "start_datum": {
+    "$date": "2021-04-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-06-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-06-24T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 9,
+  "matrikelnummer": {
+    "$numberLong": "1472583690"
+  },
+  "id_studiengang": 60,
+  "titel": "Optimierung von Datenbanken",
+  "start_datum": {
+    "$date": "2021-04-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-06-08T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-06-30T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 10,
+  "matrikelnummer": {
+    "$numberLong": "2583691470"
+  },
+  "id_studiengang": 55,
+  "titel": "Modellierung von Verkehrsfl├╝ssen",
+  "start_datum": {
+    "$date": "2021-05-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-07-29T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-08-30T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 11,
+  "matrikelnummer": {
+    "$numberLong": "3692581470"
+  },
+  "id_studiengang": 47,
+  "titel": "Nachhaltigkeit in der Betriebswirtschaft",
+  "start_datum": {
+    "$date": "2021-05-25T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-08-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-09-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 12,
+  "matrikelnummer": {
+    "$numberLong": "7418529630"
+  },
+  "id_studiengang": 40,
+  "titel": "Einsatz von IoT in der Industrie",
+  "start_datum": {
+    "$date": "2021-05-31T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-06-10T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-09-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 13,
+  "matrikelnummer": {
+    "$numberLong": "8529637410"
+  },
+  "id_studiengang": 47,
+  "titel": "Kulturelle Einfl├╝sse auf Marketing",
+  "start_datum": {
+    "$date": "2021-06-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-10-21T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-10-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": 14,
+  "matrikelnummer": {
+    "$numberLong": "9637418520"
+  },
+  "id_studiengang": 46,
+  "titel": "Sicherheit in Cloud-Systemen",
+  "start_datum": {
+    "$date": "2021-06-28T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-08-23T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-09-09T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 15,
+  "matrikelnummer": {
+    "$numberLong": "1593574862"
+  },
+  "id_studiengang": 58,
+  "titel": "Simulation von Lieferketten",
+  "start_datum": {
+    "$date": "2021-07-06T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-10-27T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-11-24T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 16,
+  "matrikelnummer": {
+    "$numberLong": "3571594862"
+  },
+  "id_studiengang": 41,
+  "titel": "Controlling in KMU",
+  "start_datum": {
+    "$date": "2021-07-26T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-12-28T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-02-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 17,
+  "matrikelnummer": {
+    "$numberLong": "9517534862"
+  },
+  "id_studiengang": 58,
+  "titel": "Automatisierung in der Logistik",
+  "start_datum": {
+    "$date": "2021-07-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-10-04T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-10-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 18,
+  "matrikelnummer": {
+    "$numberLong": "4561237890"
+  },
+  "id_studiengang": 38,
+  "titel": "Einsatz von KI in der Buchhaltung",
+  "start_datum": {
+    "$date": "2021-07-30T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-10-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-10-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 19,
+  "matrikelnummer": {
+    "$numberLong": "7894561230"
+  },
+  "id_studiengang": 4,
+  "titel": "Machine Learning für Bilderkennung",
+  "start_datum": {
+    "$date": "2021-07-30T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-10-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2021-10-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 20,
+  "matrikelnummer": {
+    "$numberLong": "1237894560"
+  },
+  "id_studiengang": 53,
+  "titel": "Markteintrittsstrategien in Asien",
+  "start_datum": {
+    "$date": "2021-09-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2021-12-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-02-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 21,
+  "matrikelnummer": {
+    "$numberLong": "3219876540"
+  },
+  "id_studiengang": 48,
+  "titel": "Optimierung von Produktionsabl├ñufen",
+  "start_datum": {
+    "$date": "2021-10-26T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-01-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-02-14T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 22,
+  "matrikelnummer": {
+    "$numberLong": "6541239870"
+  },
+  "id_studiengang": 40,
+  "titel": "Digital Twins in der Fertigung",
+  "start_datum": {
+    "$date": "2021-11-26T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-05-16T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-09-07T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 23,
+  "matrikelnummer": {
+    "$numberLong": "9873216540"
+  },
+  "id_studiengang": 50,
+  "titel": "Finanzierung von Start-ups",
+  "start_datum": {
+    "$date": "2021-12-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-02-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-03-04T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 24,
+  "matrikelnummer": {
+    "$numberLong": "1479632580"
+  },
+  "id_studiengang": 40,
+  "titel": "Entwicklung eines Web-Crawlers",
+  "start_datum": {
+    "$date": "2021-12-21T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-03-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-05-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 25,
+  "matrikelnummer": {
+    "$numberLong": "2581479630"
+  },
+  "id_studiengang": 58,
+  "titel": "Exportstrategien f├╝r KMU",
+  "start_datum": {
+    "$date": "2021-12-21T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-03-31T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 26,
+  "matrikelnummer": {
+    "$numberLong": "3692587410"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Klimamodellen",
+  "start_datum": {
+    "$date": "2022-01-31T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-04-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-09-19T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 27,
+  "matrikelnummer": {
+    "$numberLong": "7419638520"
+  },
+  "id_studiengang": 58,
+  "titel": "Autonome Systeme in der Logistik",
+  "start_datum": {
+    "$date": "2022-02-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-05-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-06-02T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 28,
+  "matrikelnummer": {
+    "$numberLong": "1234567891"
+  },
+  "id_studiengang": 50,
+  "titel": "E-Commerce in der Turkmenistani",
+  "start_datum": {
+    "$date": "2022-02-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-07-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-09-28T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 29,
+  "matrikelnummer": {
+    "$numberLong": "9876543211"
+  },
+  "id_studiengang": 40,
+  "titel": "KI-gest├╝tzte Bildverarbeitung",
+  "start_datum": {
+    "$date": "2022-02-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-05-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-06-10T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 30,
+  "matrikelnummer": {
+    "$numberLong": "4567891231"
+  },
+  "id_studiengang": 48,
+  "titel": "Global Branding Strategies",
+  "start_datum": {
+    "$date": "2022-04-14T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-09-15T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-11-17T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 31,
+  "matrikelnummer": {
+    "$numberLong": "3216549871"
+  },
+  "id_studiengang": 58,
+  "titel": "Simulation von Verkehrsnetzen",
+  "start_datum": {
+    "$date": "2022-06-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-11-30T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-12-19T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 32,
+  "matrikelnummer": {
+    "$numberLong": "6543217891"
+  },
+  "id_studiengang": 58,
+  "titel": "Blockchain in Supply Chains",
+  "start_datum": {
+    "$date": "2022-07-20T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-01-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-01-25T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 33,
+  "matrikelnummer": {
+    "$numberLong": "7891234561"
+  },
+  "id_studiengang": 50,
+  "titel": "Microfinance in Indien",
+  "start_datum": {
+    "$date": "2022-08-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2022-11-06T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2022-12-19T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 34,
+  "matrikelnummer": {
+    "$numberLong": "1472583691"
+  },
+  "id_studiengang": 25,
+  "titel": "Cybersecurity in IoT",
+  "start_datum": {
+    "$date": "2022-10-19T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-01-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-01-25T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 35,
+  "matrikelnummer": {
+    "$numberLong": "2583691471"
+  },
+  "id_studiengang": 40,
+  "titel": "Wirtschaftsinformatik interkontinental",
+  "start_datum": {
+    "$date": "2022-10-31T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-02-01T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 36,
+  "matrikelnummer": {
+    "$numberLong": "3692581471"
+  },
+  "id_studiengang": 7,
+  "titel": "Klimasimulationen mit R",
+  "start_datum": {
+    "$date": "2022-11-06T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 37,
+  "matrikelnummer": {
+    "$numberLong": "7418529631"
+  },
+  "id_studiengang": 7,
+  "titel": "Automatisierungstechnologien in der Landwirtschaft",
+  "start_datum": {
+    "$date": "2022-11-21T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-01-23T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 38,
+  "matrikelnummer": {
+    "$numberLong": "8529637411"
+  },
+  "id_studiengang": 50,
+  "titel": "Tanssilvanien als IT-Fachkr├ñfteressource",
+  "start_datum": {
+    "$date": "2022-11-28T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-03-16T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": 39,
+  "matrikelnummer": {
+    "$numberLong": "9637418521"
+  },
+  "id_studiengang": 40,
+  "titel": "Entwicklung eines Chatbots",
+  "start_datum": {
+    "$date": "2022-12-20T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-02-21T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-03-13T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 40,
+  "matrikelnummer": {
+    "$numberLong": "1593574863"
+  },
+  "id_studiengang": 40,
+  "titel": "Digital Marketing Trends",
+  "start_datum": {
+    "$date": "2022-12-21T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-02-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-03-13T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 41,
+  "matrikelnummer": {
+    "$numberLong": "3571594863"
+  },
+  "id_studiengang": 68,
+  "titel": "Fallarbeit im Kinderschutz",
+  "start_datum": {
+    "$date": "2023-01-09T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 42,
+  "matrikelnummer": {
+    "$numberLong": "9517534863"
+  },
+  "id_studiengang": 79,
+  "titel": "Ausbeutung und Eingliederung - Platform Work and Digital Colonialism",
+  "start_datum": {
+    "$date": "2023-01-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-03-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-04-17T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 43,
+  "matrikelnummer": {
+    "$numberLong": "1239874563"
+  },
+  "id_studiengang": 55,
+  "titel": "Social Entrepreneurship in Indien",
+  "start_datum": {
+    "$date": "2023-01-24T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-03-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 44,
+  "matrikelnummer": {
+    "$numberLong": "7894561232"
+  },
+  "id_studiengang": 40,
+  "titel": "Cloud Computing in Brasilien",
+  "start_datum": {
+    "$date": "2023-01-25T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-05-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-06-02T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 45,
+  "matrikelnummer": {
+    "$numberLong": "4561237892"
+  },
+  "id_studiengang": 50,
+  "titel": "Mikrokredite in Senegal",
+  "start_datum": {
+    "$date": "2023-02-03T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 46,
+  "matrikelnummer": {
+    "$numberLong": "3216549872"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Wassermanagement",
+  "start_datum": {
+    "$date": "2023-02-07T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 47,
+  "matrikelnummer": {
+    "$numberLong": "6543217892"
+  },
+  "id_studiengang": 40,
+  "titel": "IoT in der Energieversorgung",
+  "start_datum": {
+    "$date": "2023-02-07T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-04-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 48,
+  "matrikelnummer": {
+    "$numberLong": "7891234562"
+  },
+  "id_studiengang": 50,
+  "titel": "Sustainable Business Models",
+  "start_datum": {
+    "$date": "2023-02-14T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 49,
+  "matrikelnummer": {
+    "$numberLong": "1472583692"
+  },
+  "id_studiengang": 68,
+  "titel": "Entwicklung eines Spiels",
+  "start_datum": {
+    "$date": "2023-03-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-14T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-26T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 50,
+  "matrikelnummer": {
+    "$numberLong": "2583691472"
+  },
+  "id_studiengang": 40,
+  "titel": "K-Pop und AI - datengetriebene Entwicklung von Pop-Musik",
+  "start_datum": {
+    "$date": "2023-03-18T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-05-23T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-11T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 51,
+  "matrikelnummer": {
+    "$numberLong": "3692581472"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Windenergie",
+  "start_datum": {
+    "$date": "2023-03-20T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-08-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 52,
+  "matrikelnummer": {
+    "$numberLong": "7418529632"
+  },
+  "id_studiengang": 55,
+  "titel": "Digitalisierung im Tourismus - der Hochsauerlandkreis",
+  "start_datum": {
+    "$date": "2023-03-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-06-06T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": 53,
+  "matrikelnummer": {
+    "$numberLong": "8529637412"
+  },
+  "id_studiengang": 50,
+  "titel": "Agribusiness in Ghana",
+  "start_datum": {
+    "$date": "2023-04-11T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-06-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 54,
+  "matrikelnummer": {
+    "$numberLong": "9637418522"
+  },
+  "id_studiengang": 40,
+  "titel": "Sicherheit von Webanwendungen",
+  "start_datum": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-11T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-26T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 55,
+  "matrikelnummer": {
+    "$numberLong": "1593574864"
+  },
+  "id_studiengang": 50,
+  "titel": "Handelsbeziehungen Iran-Europa",
+  "start_datum": {
+    "$date": "2023-04-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-26T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 56,
+  "matrikelnummer": {
+    "$numberLong": "3571594864"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Hochwasserrisiken",
+  "start_datum": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-18T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-08-24T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 57,
+  "matrikelnummer": {
+    "$numberLong": "9517534864"
+  },
+  "id_studiengang": 58,
+  "titel": "Robotik in der Industrie",
+  "start_datum": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-24T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-08-25T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 58,
+  "matrikelnummer": {
+    "$numberLong": "1234567891"
+  },
+  "id_studiengang": 50,
+  "titel": "E-Commerce in der Walachei",
+  "start_datum": {
+    "$date": "2023-05-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-10-30T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-11-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 59,
+  "matrikelnummer": {
+    "$numberLong": "9876543211"
+  },
+  "id_studiengang": 40,
+  "titel": "KI-gest├╝tzte Fahrradwege",
+  "start_datum": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-07-17T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-07-26T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 60,
+  "matrikelnummer": {
+    "$numberLong": "4567891231"
+  },
+  "id_studiengang": 58,
+  "titel": "Global Branding Strategies",
+  "start_datum": {
+    "$date": "2023-05-22T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 61,
+  "matrikelnummer": {
+    "$numberLong": "3216549871"
+  },
+  "id_studiengang": 58,
+  "titel": "Simulation von Verkehrsnetzen",
+  "start_datum": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 62,
+  "matrikelnummer": {
+    "$numberLong": "6543217891"
+  },
+  "id_studiengang": 40,
+  "titel": "Blockchain in Supply Chains",
+  "start_datum": {
+    "$date": "2023-06-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 63,
+  "matrikelnummer": {
+    "$numberLong": "7891234561"
+  },
+  "id_studiengang": 50,
+  "titel": "Microfinance in Indien",
+  "start_datum": {
+    "$date": "2023-06-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-08-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 64,
+  "matrikelnummer": {
+    "$numberLong": "1472583691"
+  },
+  "id_studiengang": 40,
+  "titel": "Cybersecurity in IoT",
+  "start_datum": {
+    "$date": "2023-06-22T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-08-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": 65,
+  "matrikelnummer": {
+    "$numberLong": "2583691471"
+  },
+  "id_studiengang": 40,
+  "titel": "Trade Policies in Westafrika",
+  "start_datum": {
+    "$date": "2023-06-26T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-10-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 66,
+  "matrikelnummer": {
+    "$numberLong": "3692581471"
+  },
+  "id_studiengang": 50,
+  "titel": "Digitalisierung im Mittelstand",
+  "start_datum": {
+    "$date": "2023-06-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-10-24T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 67,
+  "matrikelnummer": {
+    "$numberLong": "7418529631"
+  },
+  "id_studiengang": 7,
+  "titel": "Automatisierung in der Landwirtschaft",
+  "start_datum": {
+    "$date": "2023-06-29T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-21T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-26T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 68,
+  "matrikelnummer": {
+    "$numberLong": "8529637411"
+  },
+  "id_studiengang": 40,
+  "titel": "Familienunternehmen in der Kurdistan",
+  "start_datum": {
+    "$date": "2023-07-11T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 69,
+  "matrikelnummer": {
+    "$numberLong": "9637418521"
+  },
+  "id_studiengang": 58,
+  "titel": "Entwicklung eines Chatbots",
+  "start_datum": {
+    "$date": "2023-07-11T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 70,
+  "matrikelnummer": {
+    "$numberLong": "1593574863"
+  },
+  "id_studiengang": 50,
+  "titel": "Digital Marketing Trends",
+  "start_datum": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 71,
+  "matrikelnummer": {
+    "$numberLong": "3571594863"
+  },
+  "id_studiengang": 68,
+  "titel": "Simulation von Produktionslinien",
+  "start_datum": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-14T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 72,
+  "matrikelnummer": {
+    "$numberLong": "9517534863"
+  },
+  "id_studiengang": 78,
+  "titel": "Smart Contracts in der Logistik",
+  "start_datum": {
+    "$date": "2023-07-26T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-09-27T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 73,
+  "matrikelnummer": {
+    "$numberLong": "7894561232"
+  },
+  "id_studiengang": 40,
+  "titel": "Cloud Computing in Brasilien",
+  "start_datum": {
+    "$date": "2023-08-30T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-12-21T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-02-20T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 74,
+  "matrikelnummer": {
+    "$numberLong": "4561237892"
+  },
+  "id_studiengang": 50,
+  "titel": "Mikrokredite in Senegal",
+  "start_datum": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-01-25T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 75,
+  "matrikelnummer": {
+    "$numberLong": "3216549872"
+  },
+  "id_studiengang": 7,
+  "titel": "Nachhaltigkeit in der Betriebswirtschaft",
+  "start_datum": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-02-07T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 76,
+  "matrikelnummer": {
+    "$numberLong": "6543217892"
+  },
+  "id_studiengang": 7,
+  "titel": "IoT in der Energieversorgung",
+  "start_datum": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-02-16T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-03-28T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 77,
+  "matrikelnummer": {
+    "$numberLong": "7891234562"
+  },
+  "id_studiengang": 60,
+  "titel": "Sustainable Business Models",
+  "start_datum": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 78,
+  "matrikelnummer": {
+    "$numberLong": "1472583692"
+  },
+  "id_studiengang": 72,
+  "titel": "Entwicklung eines Spiels",
+  "start_datum": {
+    "$date": "2023-11-08T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-02-29T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-03-28T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 79,
+  "matrikelnummer": {
+    "$numberLong": "2583691472"
+  },
+  "id_studiengang": 60,
+  "titel": "K-Pop und Globalisierung",
+  "start_datum": {
+    "$date": "2023-11-10T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-02-16T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 80,
+  "matrikelnummer": {
+    "$numberLong": "3692581472"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Windenergie",
+  "start_datum": {
+    "$date": "2023-11-14T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-02-29T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-07-03T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 81,
+  "matrikelnummer": {
+    "$numberLong": "7418529632"
+  },
+  "id_studiengang": 55,
+  "titel": "Digitalisierung im Tourismus",
+  "start_datum": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-02-08T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 82,
+  "matrikelnummer": {
+    "$numberLong": "8529637412"
+  },
+  "id_studiengang": 50,
+  "titel": "Agribusiness in Ghana",
+  "start_datum": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-02-02T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2024-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 83,
+  "matrikelnummer": {
+    "$numberLong": "9637418522"
+  },
+  "id_studiengang": 60,
+  "titel": "Strategisches Controlling",
+  "start_datum": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": 84,
+  "matrikelnummer": {
+    "$numberLong": "1593574864"
+  },
+  "id_studiengang": 50,
+  "titel": "Handelsbeziehungen Iran-Europa",
+  "start_datum": {
+    "$date": "2024-02-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-04-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:30:00.000Z"
+  }
+},
+{
+  "_id": 85,
+  "matrikelnummer": {
+    "$numberLong": "3571594864"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Hochwasserrisiken",
+  "start_datum": {
+    "$date": "2024-02-23T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-07-04T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 86,
+  "matrikelnummer": {
+    "$numberLong": "9517534864"
+  },
+  "id_studiengang": 60,
+  "titel": "Robotik in der Pflege",
+  "start_datum": {
+    "$date": "2024-03-28T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-06-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 87,
+  "matrikelnummer": {
+    "$numberLong": "1234567893"
+  },
+  "id_studiengang": 77,
+  "titel": "Digitalisierung im Gesundheitswesen",
+  "start_datum": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-04-08T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2024-06-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 88,
+  "matrikelnummer": {
+    "$numberLong": "9876543212"
+  },
+  "id_studiengang": 60,
+  "titel": "Einsatz von KI in der Bildung",
+  "start_datum": {
+    "$date": "2024-04-19T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 89,
+  "matrikelnummer": {
+    "$numberLong": "4567891232"
+  },
+  "id_studiengang": 40,
+  "titel": "Data Privacy in Social Media",
+  "start_datum": {
+    "$date": "2024-04-24T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-06-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-08-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T17:00:00.000Z"
+  }
+},
+{
+  "_id": 90,
+  "matrikelnummer": {
+    "$numberLong": "3216549873"
+  },
+  "id_studiengang": 30,
+  "titel": "Optimierung von Datenbanken",
+  "start_datum": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-06-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-07-29T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 91,
+  "matrikelnummer": {
+    "$numberLong": "6543217893"
+  },
+  "id_studiengang": 60,
+  "titel": "Entwicklung eines VR-Systems",
+  "start_datum": {
+    "$date": "2024-05-14T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-07-16T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-09-06T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 92,
+  "matrikelnummer": {
+    "$numberLong": "7891234563"
+  },
+  "id_studiengang": 68,
+  "titel": "Suchtpr├ñvention - die Welt der Vapes",
+  "start_datum": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-09T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 93,
+  "matrikelnummer": {
+    "$numberLong": "1472583693"
+  },
+  "id_studiengang": 47,
+  "titel": "Nachhaltigkeit in der Modeindustrie",
+  "start_datum": {
+    "$date": "2024-06-21T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-12-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 94,
+  "matrikelnummer": {
+    "$numberLong": "2583691473"
+  },
+  "id_studiengang": 60,
+  "titel": "Erneuerbare Energien in Nigeria",
+  "start_datum": {
+    "$date": "2024-07-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  }
+},
+{
+  "_id": 95,
+  "matrikelnummer": {
+    "$numberLong": "3692581473"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Luftqualit├ñt in der Frankfurter Einflugschneise",
+  "start_datum": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-07T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 96,
+  "matrikelnummer": {
+    "$numberLong": "7418529633"
+  },
+  "id_studiengang": 58,
+  "titel": "Autonome Fahrzeuge",
+  "start_datum": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-07T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 97,
+  "matrikelnummer": {
+    "$numberLong": "8529637413"
+  },
+  "id_studiengang": 60,
+  "titel": "Einsatz von Drohnen in der Logistik",
+  "start_datum": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 98,
+  "matrikelnummer": {
+    "$numberLong": "1593574865"
+  },
+  "id_studiengang": 40,
+  "titel": "Big Data in der Wirtschaft",
+  "start_datum": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2024-10-22T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:00:00.000Z"
+  }
+},
+{
+  "_id": 99,
+  "matrikelnummer": {
+    "$numberLong": "3571594865"
+  },
+  "id_studiengang": 40,
+  "titel": "Entwicklung eines Webshops",
+  "start_datum": {
+    "$date": "2024-09-30T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T12:00:00.000Z"
+  }
+},
+{
+  "_id": 100,
+  "matrikelnummer": {
+    "$numberLong": "9517534865"
+  },
+  "id_studiengang": 58,
+  "titel": "Blockchain f├╝r Wahlsysteme",
+  "start_datum": {
+    "$date": "2024-10-29T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T15:30:00.000Z"
+  }
+},
+{
+  "_id": 101,
+  "matrikelnummer": {
+    "$numberLong": "1239874564"
+  },
+  "id_studiengang": 60,
+  "titel": "Digital Payments in Indien",
+  "start_datum": {
+    "$date": "2024-11-12T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 102,
+  "matrikelnummer": {
+    "$numberLong": "4561237893"
+  },
+  "id_studiengang": 7,
+  "titel": "Wasserressourcenmanagement",
+  "start_datum": {
+    "$date": "2024-12-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-24T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 103,
+  "matrikelnummer": {
+    "$numberLong": "3216549874"
+  },
+  "id_studiengang": 50,
+  "titel": "KI in der Kundenbetreuung",
+  "start_datum": {
+    "$date": "2024-12-13T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  }
+},
+{
+  "_id": 104,
+  "matrikelnummer": {
+    "$numberLong": "6543217894"
+  },
+  "id_studiengang": 7,
+  "titel": "Simulation von Erdbebenrisiken",
+  "start_datum": {
+    "$date": "2024-12-16T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 105,
+  "matrikelnummer": {
+    "$numberLong": "7891234564"
+  },
+  "id_studiengang": 60,
+  "titel": "Ethische Aspekte von KI",
+  "start_datum": {
+    "$date": "2024-12-18T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T14:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T16:00:00.000Z"
+  }
+},
+{
+  "_id": 106,
+  "matrikelnummer": {
+    "$numberLong": "1472583694"
+  },
+  "id_studiengang": 40,
+  "titel": "Entwicklung eines IoT-Ger├ñts",
+  "start_datum": {
+    "$date": "2024-12-18T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 107,
+  "matrikelnummer": {
+    "$numberLong": "3692581474"
+  },
+  "id_studiengang": 7,
+  "titel": "Roth Technologien in Pakistan",
+  "start_datum": {
+    "$date": "2025-01-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T09:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:30:00.000Z"
+  }
+},
+{
+  "_id": 108,
+  "matrikelnummer": {
+    "$numberLong": "8529637414"
+  },
+  "id_studiengang": 7,
+  "titel": "Solarenergie in Mali",
+  "start_datum": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T11:30:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T13:00:00.000Z"
+  }
+},
+{
+  "_id": 109,
+  "matrikelnummer": {
+    "$numberLong": "1593574866"
+  },
+  "id_studiengang": 47,
+  "titel": "Internationales Marketing",
+  "start_datum": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "kolloquium_datum": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": {
+    "$date": "1970-01-01T10:00:00.000Z"
+  },
+  "kolloquium_ende_uhrzeit": {
+    "$date": "1970-01-01T10:40:00.000Z"
+  }
+},
+{
+  "_id": 110,
+  "matrikelnummer": {
+    "$numberLong": "2583691474"
+  },
+  "id_studiengang": 69,
+  "titel": "Augmented zur Darstellung h├ñuslicher Gewaltszenarien",
+  "start_datum": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 111,
+  "matrikelnummer": {
+    "$numberLong": "7418529634"
+  },
+  "id_studiengang": 7,
+  "titel": "Automatisierung im Bergbau",
+  "start_datum": {
+    "$date": "2025-01-09T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-05-23T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 112,
+  "matrikelnummer": {
+    "$numberLong": "9637418524"
+  },
+  "id_studiengang": 58,
+  "titel": "Digital Twins in der Fertigung",
+  "start_datum": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 113,
+  "matrikelnummer": {
+    "$numberLong": "3571594866"
+  },
+  "id_studiengang": 50,
+  "titel": "Entwicklung eines KI-Chatbots",
+  "start_datum": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-05-22T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 114,
+  "matrikelnummer": {
+    "$numberLong": "9517534866"
+  },
+  "id_studiengang": 50,
+  "titel": "Simulation von Lieferketten",
+  "start_datum": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 115,
+  "matrikelnummer": {
+    "$numberLong": "7894561234"
+  },
+  "id_studiengang": 47,
+  "titel": "Controlling in KMU",
+  "start_datum": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 116,
+  "matrikelnummer": {
+    "$numberLong": "6543217895"
+  },
+  "id_studiengang": 47,
+  "titel": "Kulturelle Einfl├╝sse auf Markenbildung",
+  "start_datum": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-05-23T00:00:00.000Z"
+  },
+  "ende_korrektur": null,
+  "kolloquium_datum": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 117,
+  "matrikelnummer": {
+    "$numberLong": "1239874565"
+  },
+  "id_studiengang": 40,
+  "titel": "Sicherheit in Cloud-Systemen",
+  "start_datum": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 118,
+  "matrikelnummer": {
+    "$numberLong": "4561237894"
+  },
+  "id_studiengang": 58,
+  "titel": "Automatisierung in der Logistik",
+  "start_datum": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 119,
+  "matrikelnummer": {
+    "$numberLong": "3216549875"
+  },
+  "id_studiengang": 7,
+  "titel": "Einsatz von IoT in der Industrie",
+  "start_datum": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 120,
+  "matrikelnummer": {
+    "$numberLong": "7891234565"
+  },
+  "id_studiengang": 58,
+  "titel": "Blockchain in der Logistik",
+  "start_datum": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 121,
+  "matrikelnummer": {
+    "$numberLong": "1472583695"
+  },
+  "id_studiengang": 58,
+  "titel": "Optimierung von Produktionsprozessen",
+  "start_datum": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "abgabe_datum": null,
+  "ende_korrektur": null,
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+},
+{
+  "_id": 122,
+  "matrikelnummer": {
+    "$numberLong": "7894561233"
+  },
+  "id_studiengang": 40,
+  "titel": "Smart Cities in Lateinamerika",
+  "start_datum": {
+    "$date": "2024-11-19T00:00:00.000Z"
+  },
+  "abgabe_datum": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "ende_korrektur": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "kolloquium_datum": null,
+  "kolloquium_beginn_uhrzeit": null,
+  "kolloquium_ende_uhrzeit": null
+}]

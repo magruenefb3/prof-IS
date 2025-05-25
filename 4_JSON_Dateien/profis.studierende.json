@@ -1,0 +1,920 @@
+[{
+  "_id": {
+    "$numberLong": "1234567890"
+  },
+  "vorname": "Lisa",
+  "nachname": "Meyer",
+  "mail": "lisa.meyer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "1234567891"
+  },
+  "vorname": "Ayse",
+  "nachname": "Yilmaz",
+  "mail": "ayse.yilmaz@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "1234567893"
+  },
+  "vorname": "Mehmet",
+  "nachname": "Aydin",
+  "mail": "mehmet.aydin@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 77
+},
+{
+  "_id": {
+    "$numberLong": "1237894560"
+  },
+  "vorname": "Mia",
+  "nachname": "Lange",
+  "mail": "mia.lange@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 53
+},
+{
+  "_id": {
+    "$numberLong": "1239874563"
+  },
+  "vorname": "Priya",
+  "nachname": "Sharma",
+  "mail": "priya.sharma@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 68
+},
+{
+  "_id": {
+    "$numberLong": "1239874564"
+  },
+  "vorname": "Vikram",
+  "nachname": "Mehta",
+  "mail": "vikram.mehta@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "1239874565"
+  },
+  "vorname": "Markus",
+  "nachname": "Wolf",
+  "mail": "markus.wolf@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "1472583690"
+  },
+  "vorname": "Tobias",
+  "nachname": "Schneider",
+  "mail": "tobias.schneider@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "1472583691"
+  },
+  "vorname": "Sofía",
+  "nachname": "Rodriguez",
+  "mail": "sofia.rodriguez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 25
+},
+{
+  "_id": {
+    "$numberLong": "1472583692"
+  },
+  "vorname": "Thanh",
+  "nachname": "Pham",
+  "mail": "thanh.pham@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 68
+},
+{
+  "_id": {
+    "$numberLong": "1472583693"
+  },
+  "vorname": "Lucía",
+  "nachname": "Fernandez",
+  "mail": "lucia.fernandez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "1472583694"
+  },
+  "vorname": "Bao",
+  "nachname": "Truong",
+  "mail": "bao.truong@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "1472583695"
+  },
+  "vorname": "Jan",
+  "nachname": "Kohl",
+  "mail": "jan.kohl@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "1479632580"
+  },
+  "vorname": "Nina",
+  "nachname": "Graf",
+  "mail": "nina.graf@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "1593574862"
+  },
+  "vorname": "Paul",
+  "nachname": "Schulz",
+  "mail": "paul.schulz@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "1593574863"
+  },
+  "vorname": "Olivia",
+  "nachname": "Smith",
+  "mail": "olivia.smith@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "1593574864"
+  },
+  "vorname": "Parsa",
+  "nachname": "Nowak",
+  "mail": "parsa.nowak@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "1593574865"
+  },
+  "vorname": "Harry",
+  "nachname": "Jones",
+  "mail": "harry.jones@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "1593574866"
+  },
+  "vorname": "Lena",
+  "nachname": "Bauer",
+  "mail": "lena.bauer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "2581479630"
+  },
+  "vorname": "Tim",
+  "nachname": "Reuter",
+  "mail": "tim.reuter@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "2583691470"
+  },
+  "vorname": "Lena",
+  "nachname": "Hoffmann",
+  "mail": "lena.hoffmann@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 55
+},
+{
+  "_id": {
+    "$numberLong": "2583691471"
+  },
+  "vorname": "Adebayo",
+  "nachname": "Olu",
+  "mail": "adebayo.olu@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "2583691472"
+  },
+  "vorname": "Soo-yeon",
+  "nachname": "Lee",
+  "mail": "sooyeon.lee@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "2583691473"
+  },
+  "vorname": "Chinedu",
+  "nachname": "Obi",
+  "mail": "chinedu.obi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "2583691474"
+  },
+  "vorname": "Seo-jin",
+  "nachname": "Han",
+  "mail": "seojin.han@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 69
+},
+{
+  "_id": {
+    "$numberLong": "3216549870"
+  },
+  "vorname": "Jan",
+  "nachname": "Kohl",
+  "mail": "jan.kohl@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "3216549871"
+  },
+  "vorname": "Nguyen",
+  "nachname": "Tran",
+  "mail": "nguyen.tran@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "3216549872"
+  },
+  "vorname": "Selin",
+  "nachname": "Kaya",
+  "mail": "selin.kaya@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3216549873"
+  },
+  "vorname": "Lan",
+  "nachname": "VÔö£├áÔö¼┬«",
+  "mail": "lan.vu@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 30
+},
+{
+  "_id": {
+    "$numberLong": "3216549874"
+  },
+  "vorname": "Emre",
+  "nachname": "Ôö£├ó├ö├ç├¡elik",
+  "mail": "emre.celik@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "3216549875"
+  },
+  "vorname": "Nina",
+  "nachname": "Graf",
+  "mail": "nina.graf@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3219876540"
+  },
+  "vorname": "Elias",
+  "nachname": "Huber",
+  "mail": "elias.huber@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 48
+},
+{
+  "_id": {
+    "$numberLong": "3571594862"
+  },
+  "vorname": "Sara",
+  "nachname": "Koch",
+  "mail": "sara.koch@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 41
+},
+{
+  "_id": {
+    "$numberLong": "3571594863"
+  },
+  "vorname": "Hoang",
+  "nachname": "Lee",
+  "mail": "hoang.le@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 68
+},
+{
+  "_id": {
+    "$numberLong": "3571594864"
+  },
+  "vorname": "Hanh",
+  "nachname": "Ngo",
+  "mail": "hanh.ngo@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3571594865"
+  },
+  "vorname": "Thi",
+  "nachname": "Nguyen",
+  "mail": "thi.nguyen@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "3571594866"
+  },
+  "vorname": "Tobias",
+  "nachname": "Klein",
+  "mail": "tobias.klein@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "3692581470"
+  },
+  "vorname": "Markus",
+  "nachname": "Wolf",
+  "mail": "markus.wolf@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "3692581471"
+  },
+  "vorname": "Fatima",
+  "nachname": "Ahmed",
+  "mail": "fatima.ahmed@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3692581472"
+  },
+  "vorname": "Rahul",
+  "nachname": "Verma",
+  "mail": "rahul.verma@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3692581473"
+  },
+  "vorname": "Yasmin",
+  "nachname": "Ali",
+  "mail": "yasmin.ali@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3692581474"
+  },
+  "vorname": "Ananya",
+  "nachname": "Das",
+  "mail": "ananya.das@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "3692587410"
+  },
+  "vorname": "Sophia",
+  "nachname": "Lindner",
+  "mail": "sophia.lindner@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "4561237890"
+  },
+  "vorname": "Hannah",
+  "nachname": "Berg",
+  "mail": "hannah.berg@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 38
+},
+{
+  "_id": {
+    "$numberLong": "4561237892"
+  },
+  "vorname": "Amina",
+  "nachname": "Diop",
+  "mail": "amina.diop@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "4561237893"
+  },
+  "vorname": "Zainab",
+  "nachname": "Ibrahim",
+  "mail": "zainab.ibrahim@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "4561237894"
+  },
+  "vorname": "Simon",
+  "nachname": "Neumann",
+  "mail": "simon.neumann@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "4567891231"
+  },
+  "vorname": "Emma",
+  "nachname": "Watson",
+  "mail": "emma.watson@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 48
+},
+{
+  "_id": {
+    "$numberLong": "4567891232"
+  },
+  "vorname": "Jame",
+  "nachname": "Brown",
+  "mail": "1mes.brown@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "4567891234"
+  },
+  "vorname": "Sophie",
+  "nachname": "Bauer",
+  "mail": "sophie.bauer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 48
+},
+{
+  "_id": {
+    "$numberLong": "6541239870"
+  },
+  "vorname": "Lara",
+  "nachname": "Sommer",
+  "mail": "lara.sommer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "6543217890"
+  },
+  "vorname": "Anna",
+  "nachname": "Schwarz",
+  "mail": "anna.schwarz@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "6543217891"
+  },
+  "vorname": "Ji-woo",
+  "nachname": "Kim",
+  "mail": "jiwoo.kim@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "6543217892"
+  },
+  "vorname": "Darius",
+  "nachname": "Rahimi",
+  "mail": "darius.rahimi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "6543217893"
+  },
+  "vorname": "Tae-hyung",
+  "nachname": "Kim",
+  "mail": "taehyung.kim@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "6543217894"
+  },
+  "vorname": "Farhad",
+  "nachname": "Azizi",
+  "mail": "farhad.azizi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "6543217895"
+  },
+  "vorname": "Paul",
+  "nachname": "Schulz",
+  "mail": "paul.schulz@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "7418529630"
+  },
+  "vorname": "Klara",
+  "nachname": "Fischer",
+  "mail": "klara.fischer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "7418529631"
+  },
+  "vorname": "Mateo",
+  "nachname": "GÔö£├óÔö¼Ôöémez",
+  "mail": "mateo.gomez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "7418529632"
+  },
+  "vorname": "Isabella",
+  "nachname": "LÔö£├óÔö¼Ôöépez",
+  "mail": "isabella.lopez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 55
+},
+{
+  "_id": {
+    "$numberLong": "7418529633"
+  },
+  "vorname": "Diego",
+  "nachname": "PÔö£├óÔö¼┬«rez",
+  "mail": "diego.perez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "7418529634"
+  },
+  "vorname": "Pedro",
+  "nachname": "Alvarez",
+  "mail": "pedro.alvarez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "7419638520"
+  },
+  "vorname": "Jonas",
+  "nachname": "Neumann",
+  "mail": "jonas.neumann@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "7891234560"
+  },
+  "vorname": "Julia",
+  "nachname": "Kramer",
+  "mail": "julia.kramer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "7891234561"
+  },
+  "vorname": "Arjun",
+  "nachname": "Singh",
+  "mail": "arjun.singh@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "7891234562"
+  },
+  "vorname": "Lily",
+  "nachname": "Evans",
+  "mail": "lily.evans@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "7891234563"
+  },
+  "vorname": "Neha",
+  "nachname": "Patel",
+  "mail": "neha.patel@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 68
+},
+{
+  "_id": {
+    "$numberLong": "7891234564"
+  },
+  "vorname": "Grace",
+  "nachname": "Miller",
+  "mail": "grace.miller@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "7891234565"
+  },
+  "vorname": "Anna",
+  "nachname": "WeiÔö£├óÔö╝┬®",
+  "mail": "anna.weiss@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "7894561230"
+  },
+  "vorname": "Leo",
+  "nachname": "Kaiser",
+  "mail": "leo.kaiser@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 4
+},
+{
+  "_id": {
+    "$numberLong": "7894561232"
+  },
+  "vorname": "Carlos",
+  "nachname": "Silva",
+  "mail": "carlos.silva@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "7894561233"
+  },
+  "vorname": "Camila",
+  "nachname": "Ortiz",
+  "mail": "camila.ortiz@stud.uni.de",
+  "scheinfrei_ja_nein": 0,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "7894561234"
+  },
+  "vorname": "Klara",
+  "nachname": "Fischer",
+  "mail": "klara.fischer@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "8529637410"
+  },
+  "vorname": "Simon",
+  "nachname": "Baumann",
+  "mail": "simon.baumann@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 47
+},
+{
+  "_id": {
+    "$numberLong": "8529637411"
+  },
+  "vorname": "Zeynep",
+  "nachname": "Ôö£├ó├ö├ç├┤ztÔö£├óÔö¼ÔòØrk",
+  "mail": "zeynep.ozturk@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "8529637412"
+  },
+  "vorname": "Kofi",
+  "nachname": "Asante",
+  "mail": "kofi.asante@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "8529637413"
+  },
+  "vorname": "Burak",
+  "nachname": "Ôö£├áÔö╝┬Ñahin",
+  "mail": "burak.sahin@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+},
+{
+  "_id": {
+    "$numberLong": "8529637414"
+  },
+  "vorname": "Amina",
+  "nachname": "Sow",
+  "mail": "amina.sow@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 7
+},
+{
+  "_id": {
+    "$numberLong": "9517534862"
+  },
+  "vorname": "Niklas",
+  "nachname": "Peters",
+  "mail": "niklas.peters@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "9517534863"
+  },
+  "vorname": "Min-seo",
+  "nachname": "Park",
+  "mail": "minseo.park@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 79
+},
+{
+  "_id": {
+    "$numberLong": "9517534864"
+  },
+  "vorname": "Juan",
+  "nachname": "Martínez",
+  "mail": "juan.martinez@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "9517534865"
+  },
+  "vorname": "Eun-ji",
+  "nachname": "Choi",
+  "mail": "eunji.choi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "9517534866"
+  },
+  "vorname": "Sophie",
+  "nachname": "Hoffmann",
+  "mail": "sophie.hoffmann@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "9637418520"
+  },
+  "vorname": "Emma",
+  "nachname": "Wagner",
+  "mail": "emma.wagner@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 46
+},
+{
+  "_id": {
+    "$numberLong": "9637418521"
+  },
+  "vorname": "Amir",
+  "nachname": "Hosseini",
+  "mail": "amir.hosseini@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "9637418522"
+  },
+  "vorname": "Elif",
+  "nachname": "Demir",
+  "mail": "elif.demir@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "9637418523"
+  },
+  "vorname": "Leila",
+  "nachname": "Mohammadi",
+  "mail": "leila.mohammadi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 46
+},
+{
+  "_id": {
+    "$numberLong": "9637418524"
+  },
+  "vorname": "Deniz",
+  "nachname": "KoÔö£├óÔö¼┬║",
+  "mail": "deniz.koc@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 58
+},
+{
+  "_id": {
+    "$numberLong": "9873216540"
+  },
+  "vorname": "Finn",
+  "nachname": "Otto",
+  "mail": "finn.otto@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 50
+},
+{
+  "_id": {
+    "$numberLong": "9876543210"
+  },
+  "vorname": "Max",
+  "nachname": "Myura",
+  "mail": "max.mueller@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "9876543211"
+  },
+  "vorname": "Reza",
+  "nachname": "Karimi",
+  "mail": "reza.karimi@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 40
+},
+{
+  "_id": {
+    "$numberLong": "9876543212"
+  },
+  "vorname": "Sara",
+  "nachname": "Khan",
+  "mail": "sara.khan@stud.uni.de",
+  "scheinfrei_ja_nein": 1,
+  "id_studiengang": 60
+}]

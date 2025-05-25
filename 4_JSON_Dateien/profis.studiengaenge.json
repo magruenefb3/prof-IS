@@ -1,0 +1,474 @@
+[{
+  "_id": 1,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.A. in Architektur",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 2,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Bauingenieurwesen",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 3,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Bauingenieurwesen dual",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 4,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Geodatenmanagement",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 5,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Geodatenmanagement dual - ausbildungsintegrierte Studienvariante",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 6,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Geodatenmanagement dual - praxisintegrierte Studienvariante",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 7,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Infrastruktur und Umwelt",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 8,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Infrastruktur und Umwelt dual - praxisintegrierte Studiengangsvariante",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 9,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Sc. in Real Estate und Facility Management",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 10,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Real Estate und Integrale Geb├ñudetechnik",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 11,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "B.Eng. in Stadtplanung",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 12,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Sc. in Advanced Architecture",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 13,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Sc. in Facility und Real Estate Management",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 14,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Eng. in Geodatenmanagement",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 15,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Eng. in Infrastruktur f├╝r Wasser und Verkehr",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 16,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Eng. in Umweltmanagement und Stadtplanung in BallungsrÔö£├óÔö¼├▒umen",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 17,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Sc. in Urban Agglomerations",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 18,
+  "id_fachbereich": 1,
+  "titel_nach_abschluss": "M.Eng. in Zukunftssicher Bauen",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 19,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Angewandte Biowissenschaften dual",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 20,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Bioverfahrenstechnik",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 21,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Bioverfahrenstechnik - duales Studium",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 22,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Elektro- und Informationstechnik",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 23,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Elektro- und Informationstechnik - duales Studium",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 24,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Eng. Business Information Systems (Wirtschaftsinformatik)",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 25,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Informatik",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 26,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Informatik dual",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 27,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Informatik - mobile Anwendungen",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 28,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Int. Business Information Systems",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 29,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Maschinenbau",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 30,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Maschinenbau dt. -span. Doppelabschluss",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 31,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Maschinenbau - duales Studium",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 32,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Maschinenbau - focusing",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 33,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Maschinenbau Online",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 34,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Mechatronik",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 35,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Produktentwicklung und Technisches Design",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 36,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Produktentwicklung und Technisches Design - duales Studium",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 37,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Produktentwicklung und Technisches Design - focus!ng",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 38,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Service Eng. (Wirtschaftsingenieurwesen Service)",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 39,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Service Eng. - duales Studium",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 40,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Sc. in Wirtschaftsinformatik",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 41,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "B.Eng. in Wirtschaftsingenieurwesen Online",
+  "art_abschluss": "B.Eng."
+},
+{
+  "_id": 42,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "M.Sc. in Allgemeine Informatik",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 43,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "M.Eng. in Allgemeiner Maschinenbau",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 44,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "M.Eng. in Bio- und Umwelttechnik",
+  "art_abschluss": "M.Eng."
+},
+{
+  "_id": 45,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "M.Sc. in High Integrity Systems",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 46,
+  "id_fachbereich": 2,
+  "titel_nach_abschluss": "M.Sc. in Wirtschaftsinformatik",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 47,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Betriebswirtschaftslehre",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 48,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Betriebswirtschaft mit Doppelabschluss",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 49,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Int. Business Administration",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 50,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.Sc. in Int. Finance",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 51,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Luftverkehrsmanagement dual",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 52,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Public Administration dual",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 53,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Public und Non-Profit Management",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 54,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Steuerlehre dual",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 55,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.A. in Tourismusmanagement - Tourism Management dual",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 56,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "B.  Laws in Wirtschaftsrecht (Business Law)",
+  "art_abschluss": "B.  Laws"
+},
+{
+  "_id": 57,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.Sc. in Accounting and Finance",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 58,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.Sc. in Global Logistics",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 59,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.A. in Leadership",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 60,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.Sc. in Strategisches Informationsmanagement",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 61,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.B.A. in Sustainable Business Development",
+  "art_abschluss": "MBA"
+},
+{
+  "_id": 62,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.  Laws in Verhandeln und Gestalten von Vertr├ñgen",
+  "art_abschluss": "LL.M."
+},
+{
+  "_id": 63,
+  "id_fachbereich": 3,
+  "titel_nach_abschluss": "M.B.A. in Aviation and Tourism Management",
+  "art_abschluss": "MBA"
+},
+{
+  "_id": 64,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.Sc. in Angewandte Pflegewissenschaft dual",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 65,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.A. in Berufsp├ñdagogik f├╝r Pflege- und Gesundheitsberufe",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 66,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.Sc. in Hebammenwissenschaft",
+  "art_abschluss": "B.Sc."
+},
+{
+  "_id": 67,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.A. in Management Pflege und Gesundheit",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 68,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.A. in Soziale Arbeit",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 69,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "B.A. in Soziale Arbeit - transnational",
+  "art_abschluss": "B.A."
+},
+{
+  "_id": 70,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Beratung in der Arbeitswelt",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 71,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Berufsp├ñdagogik f├╝r Pflege",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 72,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Diversit├ñt und Inklusion",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 73,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Forschung in der Sozialen Arbeit",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 74,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.Sc. in Inclusive Design",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 75,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Performative K├╝nste in sozialen Feldern",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 76,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.Sc. in Pflege - Advanced Practice Nursing",
+  "art_abschluss": "M.Sc."
+},
+{
+  "_id": 77,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Pflege- und Gesundheitsmanagement",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 78,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Psychosoziale Beratung und Recht",
+  "art_abschluss": "M.A."
+},
+{
+  "_id": 79,
+  "id_fachbereich": 4,
+  "titel_nach_abschluss": "M.A. in Suchttherapie und Sozialmanagement in der Suchthilfe",
+  "art_abschluss": "M.A."
+}]
