@@ -1,0 +1,29 @@
+id_referent,anrede,titel,vorname,nachname,ist_extern,telefon,email,adresse,adr_hinweis,strasse,haus_nr,plz,ort
+1,Herr,B.Sc.,Emre,Turan,1,"+49 69 12345678",emre.turan@extern.de,"Goethestr. 17, 60313 Frankfurt am Main",,NULL,NULL,NULL,NULL
+2,Herr,"Prof. Dr.",Daniel,Forster,0,"+49 6131 98765432",daniel.forster@uni-mainz.de,"Universitätsplatz 1, 55131 Mainz",,NULL,NULL,NULL,NULL
+3,Frau,"Prof. Dr.",Eilzaveta,Gardenia,0,"+49 30 11223344",eilzaveta.gardenia@fu-berlin.de,"Kaiserswerther Str. 16-18, 14195 Berlin",,NULL,NULL,NULL,NULL
+4,Frau,"Prof. Dr.",Leila,Hoffmann,0,"+49 221 55667788",leila.hoffmann@uni-koeln.de,"Albertus-Magnus-Platz 1, 50923 Köln",,NULL,NULL,NULL,NULL
+5,Frau,"Prof. Dr. ing. Dr. hc.",Anne,McMillen,1,"+44 20 98765432",anne.mcmillen@external-research.uk,"Universitätsplatz 1, 55131 Mainz",,NULL,NULL,NULL,NULL
+6,Frau,"Prof. Dr.",Katja,Myura,0,"+49 89 22334455",katja.myura@tum.de,"Arcisstr. 21, 80333 München",,NULL,NULL,NULL,NULL
+7,Herr,"Prof. Dr.",Markus,Roth,0,"+49 7071 60000",markus.roth@uni-tuebingen.de,"Geschwister-Scholl-Platz, 72074 Tübingen",,NULL,NULL,NULL,NULL
+8,Herr,"Prof. Dr.",Bedrich,Meier,0,"+49 9131 8522222",bedrich.meier@fau.de,"Schlossplatz 4, 91054 Erlangen",,NULL,NULL,NULL,NULL
+9,Herr,"Prof. Dr.",Reginald,Becker,1,"+49 351 79654321",reginald.becker@extern-dresden.de,"Am Technologiezentrum 10, 01109 Dresden",,NULL,NULL,NULL,NULL
+10,Frau,"Prof. Dr.",Dörthe,Richter,0,"+49 40 428380",doerthe.richter@uni-hamburg.de,"Edmund-Siemers-Allee 1, 20146 Hamburg",,NULL,NULL,NULL,NULL
+11,Frau,"Prof. Dr.",Sandra,Weber,0,"+49 511 7620",sandra.weber@uni-hannover.de,"Welfengarten 1, 30167 Hannover",,NULL,NULL,NULL,NULL
+12,Herr,"Prof. Dr.",Xaver,Schmidt,1,"+41 44 1234567",xaver.schmidt@external-swiss.ch,"Technoparkstr. 1, 8005 Zürich, Schweiz",,NULL,NULL,NULL,NULL
+13,Herr,"Prof. Dr.",Samson,Schuster,0,"+49 6421 2825000",samson.schuster@uni-marburg.de,"Biegenstr. 10, 35037 Marburg",,NULL,NULL,NULL,NULL
+14,Herr,"Prof. Dr.",Severin,Schnider,0,"+49 761 2030",severin.schnider@uni-freiburg.de,"Bertoldstr. 17, 79098 Freiburg im Breisgau",,NULL,NULL,NULL,NULL
+15,Frau,"Prof. Dr.","Ursula Beate",Wagner,0,"+49 821 5980",ursula.wagner@uni-augsburg.de,"Universitätsstr. 2, 86159 Augsburg",,NULL,NULL,NULL,NULL
+16,Herr,,Thomas,Hieb,1,"+49 711 6850",thomas.hieb@extern-stuttgart.de,"Forschungszentrum 7, 70569 Stuttgart",,NULL,NULL,NULL,NULL
+17,Herr,"Prof. Dr.",Ralf,Bornemann,1,"+49 234 3210",ralf.bornemann@external-bochum.de,"Innovationsring 1, 44801 Bochum",,NULL,NULL,NULL,NULL
+18,Herr,Dr.,Arun,Jaganeth,1,"+49 941 9430",arun.jaganeth@external-regensburg.de,"TechCampus 1, 93053 Regensburg",,NULL,NULL,NULL,NULL
+19,Herr,M.Sc.,Henrik,Maske,1,"+49 5251 600",henrik.maske@extern-paderborn.de,"Knowledge Park 9, 33100 Paderborn","boxt gerne",NULL,NULL,NULL,NULL
+20,Frau,"Prof. Dr.",Samia,Maisch,1,"+49 631 2050",samia.maisch@extern-kl.de,"Science Garden 5, 67663 Kaiserslautern",,NULL,NULL,NULL,NULL
+21,Herr,"Prof. Dr.",Tino,Scholz,0,"+49 3641 931000",tino.scholz@uni-jena.de,"Carl-Zeiss-Platz 1, 07743 Jena",,NULL,NULL,NULL,NULL
+22,Frau,"Prof. Dr.",Anneliese,Rattke,0,"+49 341 9730000",anneliese.rattke@uni-leipzig.de,"Augustusplatz 10, 04109 Leipzig",,NULL,NULL,NULL,NULL
+23,Herr,B.Sc.,Sam,SsangYong,0,"+49 89 2890",sam.ssangyong@lmu.de,"Geschwister-Scholl-Platz 1, 80539 München",,NULL,NULL,NULL,NULL
+24,Frau,,Beate,Richter-Lengsfeld,1,"+49 721 6080",beate.richter-lengsfeld@extern-karlsruhe.de,"Karlsruher Institut für Technologie, 76131 Karlsruhe",,NULL,NULL,NULL,NULL
+25,Herr,"Dr. med.vet.",Tom,Schuster,1,"+49 641 990",tom.schuster@extern-giessen.de,"Veterinärstr. 13, 35392 Giessen",,NULL,NULL,NULL,NULL
+26,Herr,"Prof. Dr.",Waldemar,Knigg,1,"+49 201 1830",waldemar.koenig@extern-essen.de,"Gendarmenmarkt 2, 45141 Essen",,NULL,NULL,NULL,NULL
+27,Frau,Dr.,Katherina,Zeta,1,"+49 271 7400",katherina.zeta@extern-siegen.de,"Emmy-Noether-Campus, 57076 Siegen","hat in mehreren Filmen mitgespielt",NULL,NULL,NULL,NULL
+28,Herr,Dr.,Fritz,Fischer,1,"+49 951 8630",fritz.fischer@extern-bamberg.de,"Kapuzinerstr. 16, 96047 Bamberg",,NULL,NULL,NULL,NULL

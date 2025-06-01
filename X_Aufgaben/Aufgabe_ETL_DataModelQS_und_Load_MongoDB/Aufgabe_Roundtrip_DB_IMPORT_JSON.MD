@@ -11,7 +11,7 @@ Die Professorenschaft bittet Sie und Ihr Team, die Datenbank für das "Professor
 Die Datenbank liegt in Form einer MySQL-Datenbank vor. Um die Datenbank zu importieren, führen Sie folgende Schritte aus:
 
 1) Legen Sie sich eine Datenbank mit dem Namen profis an.  
-2) Laden Sie die Datei in ein SQL Fenster in der Workbench und führen Sie das Skript aus: [dump_latin1_german2_ci.sql](dump_latin1_german2_ci.sql); _Hinweis_: diese wurde mit folgendem Befehl erstellt:
+2) Laden Sie die Datei in ein SQL Fenster in der Workbench und führen Sie das Skript aus: [dump_latin1_german2_ci.sql](./Inhalte%20für%20die%20Aufgabenstellung/dump_latin1_german2_ci.sql); _Hinweis_: diese wurde mit folgendem Befehl erstellt:
 ```mysqldump --default-character-set=latin1 -u root -p profis > dump_latin1_german2_ci.sql```
 
 ### Data Dictionary überarbeiten und MySQL-Datenbank anpassen
@@ -38,8 +38,8 @@ Die Professoren haben bisher ihre Daten in unterschiedlichen Formaten gespeicher
 
 Die Quellen liegen also als MySQL-Datenbank (diese haben Sie schon geladen), Excel, CSV und in Form von JSON vor:
 
-* [CSV-Datei](CSV-Arbeiten%20zum%20Upload.csv)
-* [JSON-Datei](JSON_Datensaetze.json)
+* [CSV-Datei](./Inhalte%20für%20die%20Aufgabenstellung/CSV-Arbeiten%20zum%20Upload.csv)
+* [JSON-Datei](./Inhalte%20für%20die%20Aufgabenstellung/JSON_Datensaetze.json)
 
 Ziel ist es,  
 

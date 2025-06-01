@@ -1,0 +1,11 @@
+﻿matr_nr;email;anrede;vorname;nachname;id_erstprüfer;id_zweitprüfer;id_studiengang;Titel;start_datum;abgabe_datum;kolloquium_datum;Beginn Kolloquium;Ende Kolloquium
+1029384756;anna.meier@stud.uni.de;Frau;Anna;Meier;14;7;17;Künstliche Intelligenz in der Logistik 4.0;23.01.2025;05.05.2025;28.05.2025;09:30:00;10:15:00
+2583691470;ben.lehmann@stud.uni.de;Herr;Ben;Lehmann;14;7;70;Einfluss von Social Media auf politische Meinungsbildung;02.02.2025;08.05.2025;01.05.2025;14:30:00;15:15:00
+2468135790;lea.schulz@stud.uni.de;Frau;Lea;Schulz;13;7;40;Optimierung von Finanzportfolios durch Maschinelles Lernen;07.03.2025;20.06.2025;15.05.2025;14:00:00;14:30:00
+5310864297;emily.hartmann@stud.uni.de;Frau;Emily;Hartmann;5;7;68;Digitale Transformation in der Sozialen Arbeit;20.02.2025;03.06.2025;29.05.2025;09:00:00;09:55:00
+9753108642;david.schmidt@stud.uni.de;Herr;David;Schmidt;14;5;29;Additive Fertigungstechnologien in der Automobilindustrie;10.03.2025;25.04.2025;17.04.2025;11:30:00;12:10:00
+9876543210;max.mustermann@stud.uni.de;Herr;Max;Mustermann;7;5;47;Nachhaltige Geschäftsmodelle in der Kreislaufwirtschaft;15.02.2025;10.06.2025;02.06.2025;11:00:00;11:45:00
+8642097531;sophia.weber@stud.uni.de;Frau;Sophia;Weber;7;13;58;Resilienz in globalen Lieferketten: Eine Fallstudie;01.02.2025;18.06.2025;10.06.2025;13:00:00;13:40:00
+1357924680;fabian.mueller@stud.uni.de;Herr;Fabian;Müller;5;14;22;Entwicklung eines autonomen Sensorsystems für Smart Homes;28.01.2025;12.05.2025;05.06.2025;10:00:00;10:50:00
+7531086429;lucas.koch@stud.uni.de;Herr;Lucas;Koch;13;14;54;Strategische Entscheidungen unter Unsicherheit;05.01.2025;15.05.2025;08.05.2025;15:00:00;15:35:00
+1472583690;clara.fischer@stud.uni.de;Frau;Clara;Fischer;7;5;60;Big Data Analyse im Gesundheitswesen;12.03.2025;27.06.2025;20.06.2025;10:30:00;11:00:00
